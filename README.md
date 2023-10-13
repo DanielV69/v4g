@@ -1,6 +1,3 @@
-# [Art Class](https://artclass.site)
-*Official website of Art Class!*
-
 # Easy Deploy (Instructions below)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/art-class/v4)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/art-class/v4)
