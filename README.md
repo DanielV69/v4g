@@ -1,5 +1,5 @@
-# [Art Class](https://artclass.site)
-*Official website of Art Class!*
+# [Silly](https://www.youtube.com)
+*Official website of Silly!*
 
 # Easy Deploy (Instructions below)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/art-class/v4)
